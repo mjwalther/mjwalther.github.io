@@ -10,8 +10,8 @@ export const Header = () => {
             <Face imageUrl="me.jpg" />
             <div style={{display: "flex", flexDirection: "column", justifyContent: "center", textAlign: "left"}}>
                 <h1 style={{marginBottom: "5px"}}>Matthias Jiro Walther</h1>
-                <h2 style={headerStyle}>Data and Computer Science @ Stanford University</h2>
-                <h3 style={headerStyle}>jiro /at/ stanford.edu</h3>
+                <h2 style={headerStyle}>APM @ Solace | Data & CS (AI) @ Stanford University</h2>
+                <h3 style={headerStyle}>jiro /at/ alumni.stanford.edu</h3>
                 <div style={{display: "flex", flexDirection: "row"}}>
                     <a href="https://github.com/mjwalther" aria-label="Github Link" target="_blank" rel="noopener noreferrer"><FaGithub style={{marginRight: "5px", fontSize:"xx-large", color: "#6abe83"}}/></a>
                     <a href="https://www.linkedin.com/in/jirowalther/" aria-label="LinkedIn Link" target="_blank" rel="noopener noreferrer"><FaLinkedin style={{marginRight: "5px", fontSize:"xx-large", color: "#84c9fb"}}/></a>                </div>

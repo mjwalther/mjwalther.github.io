@@ -10,6 +10,7 @@ export const Teaching = () => {
         <p>Graduate Teaching Assistant</p>
         <ul>
             <li><a href="https://bulletin.stanford.edu/courses/1237821">STATS 60: Introduction to Statistical Methods: Precalculus, Fall 2025</a></li>
+            <li>Supported 150 students through weekly discussion sections, grading, office hours, and managing course logistics.</li>
         </ul>
         <p>Data Science Peer Advisor</p>
         <ul>
